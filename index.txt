@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Shriya Lenkalapally
+Shriya Lenkalapally
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+shriyalenkalapally@gmail.com
 
 Phone
-+1 (213) 352-2795
++91 901030****
 
 Birthday
-June 23, 1982
+June 13, 2003
 
 Location
-Sacramento, California, USA
+Bangalore, Karnataka, India
 
 # navbar
 

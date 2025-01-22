@@ -2,13 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #F5DEB3;
-
+    background-color: #F5DEB3; /* Wheat */
 }
 
 header {
-    background-color: #333;
-    color: #DEB887;
+    background-color: #8B4513; /* Saddle Brown */
+    color: #DEB887; /* Burly Wood */
     padding: 1rem;
     text-align: center;
 }
@@ -16,14 +15,14 @@ header {
 section {
     padding: 2rem;
     margin: 1rem;
-    background-color: #F4A460;
+    background-color: #A0522D; /* Sienna */
     border-radius: 8px;
 }
 
 footer {
     text-align: center;
     padding: 1rem;
-    background-color: #D2691E;
+    background-color: #D2691E; /* Chocolate */
     color: white;
     position: fixed;
     width: 100%;
